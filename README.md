@@ -16,3 +16,11 @@ Buat berkas layout xml untuk baris item di RecyclerView.
 Buat sebuah kelas adapter yang inherit ke RecyclerView.Adapter dan ViewHolder untuk menampilkan tiap elemen data.
 Definisikan obyek RecyclerView berikut dengan bentuk yang diinginkan (bisa dalam bentuk list, grid, atau staggered) dan selanjutnya pasang obyek adapter (binding) agar bisa menampilkan koleksi data ke dalam RecyclerView.
 
+Menggunkan Jenis Tampilan GRID 
+![Alt Text](https://github.com/Tio304/Recyler1/blob/master/WhatsApp%20Image%202020-09-18%20at%2022.14.06.jpeg)
+
+![Alt Text](https://github.com/Tio304/Recyler1/blob/master/WhatsApp%20Image%202020-09-18%20at%2022.14.07%20(1))
+
+Menggunakan Tampilan LIST
+![Alt Text](https://github.com/Tio304/Recyler1/blob/master/WhatsApp%20Image%202020-09-18%20at%2022.14.07.jpeg)
+
