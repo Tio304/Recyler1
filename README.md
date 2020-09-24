@@ -43,4 +43,4 @@ Definisikan obyek RecyclerView berikut dengan bentuk yang diinginkan (bisa dalam
 ![Alt Text](https://github.com/Tio304/Recyler1/blob/master/ser.jpeg)
 
 # Menjadikan Pilihan
-![Alt Text](https://github.com/Tio304/Recyler1/blob/master/WhatsApp%20Image%202020-09-24%20at%2021.34.49%20(1))
+![Alt Text](https://github.com/Tio304/Recyler1/blob/master/blos.jpeg)
